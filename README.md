@@ -1,59 +1,51 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+## Criação do projeto
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+Criando um novo projeto Laravel
 
-## About Laravel
+<img width="970" height="333" alt="Criando projeto Laravel" src="https://github.com/user-attachments/assets/edc3bac6-ed74-4689-9327-f44cf31aac10" />
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+Configurações iniciais do projeto
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+<img width="755" height="293" alt="Configurações iniciais do projeto" src="https://github.com/user-attachments/assets/2d1135b1-17d0-41e1-abac-5347aaa75456" />
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+Instalando o Breeze com composer
 
-## Learning Laravel
+<img width="1227" height="401" alt="Instalando o Breeze com composer" src="https://github.com/user-attachments/assets/4cb18eb1-e39b-4bb1-ad59-792828a50624" />
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework. You can also check out [Laravel Learn](https://laravel.com/learn), where you will be guided through building a modern Laravel application.
+Instalando o Breeze com php
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+<img width="1060" height="282" alt="Instalando o breeze com o php" src="https://github.com/user-attachments/assets/6460a6e1-90f1-4a68-a02d-822ac2a62e6c" />
 
-## Laravel Sponsors
+Executando o comando npm install
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+<img width="931" height="153" alt="npm install" src="https://github.com/user-attachments/assets/e0e0b631-581d-4b10-bfe8-87eceaf7b437" />
 
-### Premium Partners
 
-- **[Vehikl](https://vehikl.com)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Redberry](https://redberry.international/laravel-development)**
-- **[Active Logic](https://activelogic.com)**
+## Instalação do chat
 
-## Contributing
+Instalando o chat com composer
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+<img width="1112" height="309" alt="Instalando o chat com composer" src="https://github.com/user-attachments/assets/87a092c2-55db-4187-b323-2f2d496df4ea" />
 
-## Code of Conduct
+Instalando o chat com php
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+<img width="1069" height="65" alt="Instalando o chat com php" src="https://github.com/user-attachments/assets/553dd78b-2082-495c-8bc3-dd0b489e2499" />
 
-## Security Vulnerabilities
+Atualizando as migrations
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+<img width="1240" height="218" alt="Atualizando as migrações" src="https://github.com/user-attachments/assets/db76d20e-4e72-48ef-9437-6af5fe1c0ef4" />
 
-## License
+## Chat em funcionamento
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+<img width="1315" height="958" alt="Chat 1" src="https://github.com/user-attachments/assets/c274ba09-3355-41d5-8d52-1ad066d2d10e" />
+<img width="1045" height="959" alt="Chat 2" src="https://github.com/user-attachments/assets/fb526449-e2ff-4e08-818b-bbf7d3af88ce" />
+
+Código comentado
+
+<img width="681" height="86" alt="Comentário" src="https://github.com/user-attachments/assets/c413fa88-3f90-4b6e-98b2-cb553b73a1e0" />
+
+# Banco de Dados
+
+<img width="1222" height="379" alt="Banco de dados 1" src="https://github.com/user-attachments/assets/cb6c3a15-d150-4992-8f9a-036f49d0f1de" />
+
+<img width="1175" height="165" alt="Banco de dados 2" src="https://github.com/user-attachments/assets/71c33c32-1440-4325-a282-a72a27f71663" />
